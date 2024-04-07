@@ -9,6 +9,6 @@ Calculadora criada na [Mentoria #5: Tire as suas dúvidas sobre JavaScript - Con
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
 
-## Dependências e Versões Necessárias
+### Visualização do projeto
 
-O layout pronto poder ser visualizado no link: 
+O layout pronto poder ser visualizado no link: https://stecarvalho87.github.io/calculadora-mentoria-DIO/
